@@ -54,7 +54,7 @@ public class Main {
         checkPhoneOs(clientOs, clientDeviceYear);
 //        Задание 3
         System.out.println("Задание 3");
-        int deliveryDistance =95;
+        int deliveryDistance = 95;
         calculateDeliveryTime(deliveryDistance);
 
     }
